@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LTM8051.PcbDoc]
+   Generated File[LTM8051.TXT]
+   Generated File[LTM8051.LDP]
+   Generated File[LTM8051.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:33:10 On 29.08.2023

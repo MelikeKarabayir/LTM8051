@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=+8V NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Change Component Designator: OldDesignator=GND NewDesignator=J4
+Change Component Designator: OldDesignator=GND NewDesignator=J6
+Change Component Designator: OldDesignator=VOUT14 NewDesignator=J3
+Change Component Designator: OldDesignator=VOUT23 NewDesignator=J5
+Change Component Description : Designator=R1 Old Description=Res Thick Film 0805 23.2K Ohm 1% 1/8W New Description=Res Thick Film 0805 23.2K Ohm 1% 1/8W |100ppm/|C SMD Punched Carrier T/R
